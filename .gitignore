@@ -1,0 +1,10 @@
+# Ignorowanie folderu .vs Visual Studio
+.vs/
+
+# Ignorowanie plików bin i obj
+bin/
+obj/
+
+# Ignorowanie plików użytkownika VS
+*.user
+*.suo
